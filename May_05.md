@@ -18,11 +18,11 @@ As the Korean music industry continues to expand its global reach, IU's story is
 IU's reign on Melon may be backed by data, but its true value lies in what it represents—a long-standing relationship between artist and audience, one built on honesty, evolution, and shared growth. In a world obsessed with instant fame, IU's journey offers a refreshing counter-narrative: that genuine connection and artistic integrity still matter—and perhaps matter more than ever.
 
 01. Comprehension Questions\
-How does the article describe IU's approach to evolving her musical style?
-What does IU's top Melon ranking suggest compared to BTS's global influence?
-What qualities contribute to IU's emotional connection with her audience?
+How does the article describe IU's approach to evolving her musical style?\
+What does IU's top Melon ranking suggest compared to BTS's global influence?\
+What qualities contribute to IU's emotional connection with her audience?\
 
 02. Discussion Questions\
-How do artists balance personal expression with public expectation?
-What role does cultural identity play in shaping music preferences?
-How can reinvention benefit or challenge a music career?
+How do artists balance personal expression with public expectation?\
+What role does cultural identity play in shaping music preferences?\
+How can reinvention benefit or challenge a music career?\
