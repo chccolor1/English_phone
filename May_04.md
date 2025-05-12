@@ -1,4 +1,4 @@
-Unit 4: DENMARK LISTENS TO INDIGENOUS VOICES
+# Unit 4: DENMARK LISTENS TO INDIGENOUS VOICES
 "There is no trust more sacred than the one the world holds with children." — Kofi Annan
 
 In a historic move, Denmark announced in January 2025 that it would no longer require Greenlandic Inuit parents to pass a "parenting competency" test in order to reunite with their children. This policy change comes after years of criticism from human rights advocates and Indigenous groups, who argued that the test unfairly targeted Greenlandic families and reflected deep-rooted biases within the Danish welfare system. The parenting test, designed to assess whether a parent was "fit" to care for a child, was almost never applied to Danish citizens. However, it was often required of Greenlandic Inuit parents seeking to raise their children in Denmark, leading to widespread accusations of discrimination and a growing demand for change.
@@ -11,14 +11,14 @@ Instead of testing and judging parents, governments should focus on helping them
 
 At its heart, this story is about barriers—not only legal ones, but also emotional and cultural ones. When governments create policies that ignore the lived experiences of Indigenous people, they build walls instead of bridges. Taking down the parenting test is one way to break those walls and show a commitment to fairness. In the end, every child deserves the chance to be raised by loving parents—and every parent deserves the chance to raise their child without being judged unfairly. It's not just about changing one rule; it's about changing the way we think about support, equality, and family. And for Greenlandic parents in Denmark, it's a long-overdue step toward being seen and treated with the dignity they deserve.
 
-01. Comprehension Questions
+01. Comprehension Questions\n
 What rule did Denmark remove in January 2025?
 
 Why was the parenting test seen as unfair?
 
 What kind of parenting style is common in Indigenous communities?
 
-02. Discussion Questions
+02. Discussion Questions\n
 Should parenting support replace parenting tests in all countries?
 
 How can governments respect different cultural parenting styles?
