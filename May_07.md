@@ -1,4 +1,4 @@
-Unit 7: MIND SPACE MATTERS
+# Unit 7: MIND SPACE MATTERS
 The monotony and solitude of a quiet life stimulates the creative mind. —Albert Einstein
 
 In a world full of constant noise, pop-up notifications, and endless to-do lists, finding time to think clearly has become a rare luxury. Many people feel overwhelmed, distracted, and mentally exhausted by the demands of everyday life. But what if the solution to feeling more focused, creative, and in control is simply giving yourself more mental space?
@@ -16,6 +16,7 @@ Making space to think isn't just good for your brain—it improves your whole li
 In today's busy world, protecting your mental space is more important than ever. It's not selfish—it's smart. Just like we recharge our phones, we must recharge our minds. So, take a moment, slow down, and clear some room in your day. After all, as the saying goes, you can't pour from an empty cup. Giving yourself space to think might be the most powerful gift you can give—not only to yourself, but to everyone around you.
 
 01. Comprehension Questions
+   
 What is mental space?
 
 When do people often have their best ideas?
@@ -23,6 +24,7 @@ When do people often have their best ideas?
 Why is multitasking not helpful according to the article?
 
 02. Discussion Questions
+   
 What are some activities that help you clear your mind during a busy day?
 
 How can schools help students find more mental space?
