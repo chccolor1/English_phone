@@ -11,14 +11,14 @@ Instead of testing and judging parents, governments should focus on helping them
 
 At its heart, this story is about barriers—not only legal ones, but also emotional and cultural ones. When governments create policies that ignore the lived experiences of Indigenous people, they build walls instead of bridges. Taking down the parenting test is one way to break those walls and show a commitment to fairness. In the end, every child deserves the chance to be raised by loving parents—and every parent deserves the chance to raise their child without being judged unfairly. It's not just about changing one rule; it's about changing the way we think about support, equality, and family. And for Greenlandic parents in Denmark, it's a long-overdue step toward being seen and treated with the dignity they deserve.
 
-01. Comprehension Questions\n
+01. Comprehension Questions\
 What rule did Denmark remove in January 2025?
 
 Why was the parenting test seen as unfair?
 
 What kind of parenting style is common in Indigenous communities?
 
-02. Discussion Questions\n
+02. Discussion Questions\
 Should parenting support replace parenting tests in all countries?
 
 How can governments respect different cultural parenting styles?
