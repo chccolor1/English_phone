@@ -1,4 +1,4 @@
-Unit 6: ARE WE DATING OR DOWNLOADING
+# Unit 6: ARE WE DATING OR DOWNLOADING
 The more you know about someone, the less you need to guess.
 
 Artificial intelligence (AI) has become part of our everyday lives—from online shopping to music playlists, and now, even dating. As AI tools become smarter and more accessible, some people are using them in surprising new ways—including trying to learn about their date before the first hello. But is it right to use AI to build a psychological profile of someone you just met?
@@ -11,14 +11,14 @@ But dating is not just about data; it's about connection. Relationships grow thr
 
 At the end of the day, dating is still about being human. There's no shortcut to building trust, and no algorithm can replace a real conversation. AI can be helpful, but it shouldn't take the wheel. In love, as in life, honesty is the best policy. And when it comes to using AI in personal relationships, the golden rule still applies: treat others the way you want to be treated.
 
-01. Comprehension Questions
+01. Comprehension Questions\
 What is a psychological profile?
 
 What does dating grow through, according to the article?
 
 What is the golden rule in the article?
 
-02. Discussion Questions
+02. Discussion Questions\
 Would you like someone to use AI before dating you? Explain your answer.
 
 Should people tell others if they used AI to prepare for a date?
