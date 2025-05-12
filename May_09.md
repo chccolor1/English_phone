@@ -1,4 +1,4 @@
-Unit 9: WHEN ONE THUMB ISN'T ENOUGH
+# Unit 9: WHEN ONE THUMB ISN'T ENOUGH
 The human body is the best picture of the human soul. —Ludwig Wittgenstein
 
 In a world where technology continues to redefine human potential, a new innovation is capturing the spotlight—the robotic "Third Thumb." This remarkable invention, a prosthetic thumb designed to enhance rather than replace human ability, could revolutionize the way we interact with the world around us.
@@ -18,6 +18,7 @@ While the idea of growing a “helping hand” might sound like something from s
 As the saying goes, “many hands make light work,” and with the rise of robotic enhancements like the Third Thumb, that old idiom might soon take on a whole new meaning.
 
 01. Comprehension Questions
+   
 What is the Third Thumb designed to do?
 
 How is the Third Thumb controlled by the user?
@@ -25,6 +26,7 @@ How is the Third Thumb controlled by the user?
 What did brain scans show after using the Third Thumb?
 
 02. Discussion Questions
+   
 Would you be willing to wear a robotic thumb? Explain your answer.
 
 How could this technology help people in the workplace?
