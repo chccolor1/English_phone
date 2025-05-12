@@ -1,4 +1,4 @@
-Unit 8: HONG KONG'S HIDDEN ART POWER
+# Unit 8: HONG KONG'S HIDDEN ART POWER
 Art should comfort the disturbed and disturb the comfortable. —Cesar A. Cruz
 
 Over the past decade, Hong Kong has positioned itself as a key player in the global art scene, attracting collectors, institutions, and galleries from all corners of the world. Once considered a peripheral market, the city now hosts major events like Art Basel Hong Kong and boasts prestigious auction houses such as Christie's and Sotheby's. Yet despite its growing international reputation, Hong Kong remains something of an enigma—caught between competing pressures that both fuel and frustrate its cultural ambitions.
@@ -20,6 +20,7 @@ Looking ahead, the future of Hong Kong as an art hub will depend on its ability 
 In short, Hong Kong's art world is a work in progress. It is a place where ambition meets uncertainty, where opportunity walks hand in hand with constraint. And perhaps it is this very tension that gives the city its unique artistic edge—proving that even under pressure, creativity can still find a way to bloom.
 
 01. Comprehension Questions
+   
 What makes Hong Kong an ideal base for international galleries and auction houses?
 
 What is M+ and where is it located?
@@ -27,6 +28,7 @@ What is M+ and where is it located?
 What kind of topics do young Hong Kong artists explore?
 
 02. Discussion Questions
+   
 How does art help people express their opinions or emotions?
 
 Should governments support freedom of expression in art? Explain your answer.
