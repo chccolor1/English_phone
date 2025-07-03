@@ -21,4 +21,19 @@ This mindset helps reduce stress. Instead of getting upset, you learn to trust t
 
 It’s not always easy to stay positive when things go wrong. But practicing the Burnt Toast Theory can help you stay hopeful. The next time you face a delay or mistake, try saying to yourself, “Maybe this is burnt toast.” It’s a simple way to stop your thoughts from spiraling and give yourself peace of mind.  
 
-You can also use this idea to support others. When a friend is upset, remind
+You can also use this idea to support others. When a friend is upset, remind them that something better might be waiting. You don’t need to have all the answers—just a bit of kindness and the hope that something good will come from the bad. 
+
+## Final Thoughts
+
+We can’t control everything that happens in life. But we can control how we react. The Burnt Toast Theory teaches us to  be patient and positive, even when things seem to go wrong. It’s a reminder that setbacks might lead to better paths, even if we can’t see them right away. So, the next time your toast burns, take a deep breath. Maybe, just maybe, the universe is saving you from something worse—or guiding you toward something better.
+
+## Comprehension Questions
+1. What does the Burnt Toast Theory say about delays?
+2. Why do people like the Burnt Toast Theory?
+3. What should you do when something goes wrong, according to the article?
+
+## Discussion Questions
+1. Have you ever had a bad day that turned out well in the end?
+2. How do you usually feel when something delays your plans?
+3. Do you believe that everything happens for a reason? Why or why not?
+
